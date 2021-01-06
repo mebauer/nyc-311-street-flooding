@@ -12,9 +12,9 @@ Notebooks:
 
 Data:  
 Data used in the analysis can be found in the [data](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data) folder. This includes:  
-- [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/311-street-flooding-complaints.ipynb) as a .csv.  
-- [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/311-street-flooding-complaints.ipynb) as a geojson (.json).   
-- [311 Street Flooding Data Dictionary](https://github.com/mebauer/nyc-311-street-flooding/blob/main/311-street-flooding-complaints.ipynb) as an Excel file (.xlsx). 
+- [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/311-flooding-data.csv) as a .csv.  
+- [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/streets_clipped.json) as a geojson (.json).   
+- [311 Data Dictionary](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/311_SR_Data_Dictionary_2018.xlsx) as an Excel file (.xlsx). 
 
 Say Hello!   
 [Twitter](https://twitter.com/markbauerwater)  
