@@ -8,7 +8,7 @@ I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 d
 # Introduction
 I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 dataset. 
 
-![cover photo](figures/sample.png)
+![cover photo](figures/cover-photo.png)
 
 
 # Notebooks
