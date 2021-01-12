@@ -34,6 +34,20 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 
 `conda install -c conda-forge fiona`
 
+- pywin32
+
+`conda install -c anaconda pywin32`
+
+- jupyter_contrib_nbextensions`
+
+`conda install -c conda-forge jupyter_contrib_nbextensions`
+
+`jupyter contrib nbextension install --user`
+
+- watermark
+
+`conda install -c conda-forge watermark`
+
 ## Notebooks
 
 | File Name | Description |
