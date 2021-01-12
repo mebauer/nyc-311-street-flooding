@@ -10,7 +10,25 @@ I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 d
 
 ## Prerequisites
 
-## Installation
+### Data Science Tools: Anaconda
+
+Download and install [Anaconda](https://www.anaconda.com/products/individual) python distribution.
+
+#### Included Python Libraries
+
+- pandas
+- matplotlib
+- Seaborn
+
+#### Additional Python Libraries
+
+- Geopandas
+
+`conda install geopandas`
+
+- geoplot
+
+`conda install -c conda-forge geoplot`
 
 
 ## Notebooks
