@@ -24,12 +24,15 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 
 - Geopandas
 
-`conda install geopandas`
+`conda install -c conda-forge geopandas`
 
 - geoplot
 
 `conda install -c conda-forge geoplot`
 
+- fiona
+
+`conda install -c conda-forge fiona`
 
 ## Notebooks
 
