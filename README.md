@@ -61,13 +61,13 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 
 | Dataset | Description |
 | :-------- | :---------- |
-| [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/311-flooding-data.csv) | |
-| [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/streets_clipped.json) | |
-| [311 Data Dictionary](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data/311_SR_Data_Dictionary_2018.xlsx) | |
+| [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-street-flooding-data.csv) | |
+| [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-streets-clipped.json) | |
+| [311 Data Dictionary](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-dictionaries/311_SR_Data_Dictionary_2018.xlsx) | |
 
 # Further Reading
 
-Inspiration for the project came from an article by [Localize.city](https://www.localize.city/) titled, ["Puddles or Small Ponds? Where New Yorkers Feel Most Deluged by Street Flooding."](https://www.localize.city/blog/puddles-or-small-ponds-where-new-yorkers-feel-most-deluged-by-street-flooding/) 
+Inspiration for the project came from an article by [Localize.city](https://www.localize.city/) titled, "[Puddles or Small Ponds? Where New Yorkers Feel Most Deluged by Street Flooding](https://www.localize.city/blog/puddles-or-small-ponds-where-new-yorkers-feel-most-deluged-by-street-flooding/)."
 
 # Say Hello!   
 
