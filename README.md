@@ -1,15 +1,28 @@
-# Analyzing NYC's 311 Street Flooding Complaints from 2010 to Present  
+# Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020  
 Mark Bauer  
 
 ![cover photo](figures/cover-photo.png)
 
 # Executive Summary
 
+In progress...
 
 
 # Introduction
 
-I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 data set. 
+I conducted an analysis of street flooding complaints with NYC Open Data's 311 data set. Specifically, I attempt to answer the following questions:
+
+- What is the distribution of street flooding complaints by neighborhood, borough and citywide?
+- How have street flooding complaints changed over time?
+- What streets experience the most 311 street flooding complaints?
+- What days and weeks experienced the most street floodingn complaints?
+- What are the average and median response hours to 311 street flooding complaints?
+
+I've also included case studies from the neighborhoods of:
+
+- Hammels, Arverne, and Edgemere, Queens  
+- New Dorp - Midland Beach, Staten Island
+
 
 # Getting Started
 
@@ -45,7 +58,7 @@ I am using a Mac, but if you're using Windows, you may need to install these pac
 
 `conda install -c anaconda pywin32`
 
-- jupyter_contrib_nbextensions`
+- jupyter_contrib_nbextensions
 
 `conda install -c conda-forge jupyter_contrib_nbextensions`
 
@@ -75,6 +88,19 @@ I am using a Mac, but if you're using Windows, you may need to install these pac
 
 Data dictionaries for the data sets above can be found in the [data-dictionaries](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-dictionaries) folder. 
 
+# Resources
+
+- [NYC Open Data](https://opendata.cityofnewyork.us/)
+
+- [311 Service Requests from 2010 to Present Webpage](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+
+- [Report Street Flooding to NYC 311](https://portal.311.nyc.gov/article/?kanumber=KA-02198)
+
+# Media
+
+- [NYC DOT Facebook post](https://www.facebook.com/NYCDOT/posts/if-you-see-ponding-or-flooding-on-any-nyc-street-or-highway-report-it-to-nyc-311/10156270397437887/) about NYC 311 Street Flooding.
+
+- [NYC 311 Twitter post](https://twitter.com/nyc311/status/1067131135749165056) about NYC 311 Street Flooding.
 
 # Further Reading
 
