@@ -3,6 +3,24 @@ Mark Bauer
 
 ![cover photo](figures/cover-photo.png)
 
+# Table of Contents
+
+   * [Executive Summary](#Executive-Summary)
+   * [Introduction](#Introduction)
+   * [Getting Started](#Getting-Started)
+       * [Prerequisites](#Prerequisites)
+           * [Data Science Tools: Anaconda](#Data-Science-Tools-Anaconda)
+               * [Included Python Libraries](#Included-Python-Libraries)
+               * [Additional Python Libraries](#Additional-Python-Libraries)     
+       * [Notebooks](#Notebooks)
+       * [Data](#Data)
+       * [Further Reading](#Further-Reading)     
+   * [Resources](#Resources)
+   * [Media](#Media)
+   * [Further Reading](#Further-Reading)
+   * [Say Hello!](#Say-Hello)
+
+
 # Executive Summary
 
 In progress...
@@ -15,7 +33,7 @@ I conducted an analysis of street flooding complaints with NYC Open Data's 311 d
 - What is the distribution of street flooding complaints by neighborhood, borough and citywide?
 - How have street flooding complaints changed over time?
 - What streets experience the most 311 street flooding complaints?
-- What days and weeks experienced the most street floodingn complaints?
+- What days and weeks experienced the most street flooding complaints?
 - What are the average and median response hours to 311 street flooding complaints?
 
 I've also included case studies from the neighborhoods of:
