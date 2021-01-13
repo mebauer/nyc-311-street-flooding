@@ -2,8 +2,6 @@
 Mark Bauer  
 
 ![cover photo](figures/cover-photo.png)
-![midland beach](figures/midland-beach.png)
-![arverne](figures/arverne.png)
 
 # Executive Summary
 
@@ -31,7 +29,7 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 
 I am using a Mac, but if you're using Windows, you may need to install these packages:
 
-- gseopandas
+- geopandas
 
 `conda install -c conda-forge geopandas`
 
