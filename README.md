@@ -1,7 +1,7 @@
 # Analyzing NYC's 311 Street Flooding Complaints from 2010 to Present  
 Mark Bauer  
 
-# About The Project
+# About the Project
 I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 data set. 
 
 ![cover photo](figures/cover-photo.png)
@@ -21,6 +21,8 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 - Seaborn
 
 #### Additional Python Libraries
+
+I am using a Mac, but if you're using Windows, you may need to install these packages:
 
 - Geopandas
 
@@ -52,14 +54,14 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 
 | File Name | Description |
 | :-------- | :---------- |
-| [311-street-flooding-complaints.ipynb notebook](analysis-nyc-311-street-flooding.ipynb) | Analysis of citywide street flooding complaints in the 311 dataset. Analysis includes maps, timeseries, bar plots, and other types of visualizations. |
-| [assign-complaints-to-streets.ipynb notebook](analysis-assign-complaints-to-streets.ipynb) | Analysis for assigning 311 street flooding complaints to streets. Also includes data visualizations about which streets have the most street flooding complaints, as well as case studies for Midland Beach, Staten Island and Arverne, Queens. |
-| [data-wrangling-311-data.ipynb notebook](/data-wrangling/data-wrangling-311-data.ipynb) | Data wrangling for exporting the 311 data using Socrata's API. Note: I signed up for an API key. |
-| [data-wrangling-streets-data.ipynb notebook](/data-wrangling/data-wrangling-streets-data.ipynb) | Data wrangling for clipping and extracting only NYC streets. |
+| [311-street-flooding-complaints.ipynb](analysis-nyc-311-street-flooding.ipynb) | Analysis of citywide street flooding complaints in the 311 dataset. Analysis includes maps, timeseries, bar plots and other types of visualizations. |
+| [assign-complaints-to-streets.ipynb](analysis-assign-complaints-to-streets.ipynb) | Analysis for assigning 311 street flooding complaints to streets. Also includes data visualizations about which streets have the most street flooding complaints, as well as case studies for Midland Beach, Staten Island and Arverne, Queens. |
+| [data-wrangling-311-data.ipynb](/data-wrangling/data-wrangling-311-data.ipynb) | Data wrangling for exporting the 311 data using Socrata's API. Note: I signed up for an API key. |
+| [data-wrangling-streets-data.ipynb](/data-wrangling/data-wrangling-streets-data.ipynb) | Data wrangling for clipping and extracting NYC streets. |
 
 ## Data 
 
-| Dataset | Description |
+| Data Set | Description |
 | :-------- | :---------- |
 | [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-street-flooding-data.csv) | Raw data for all 311 Service Requests from 2010 to present where descriptor == Street Flooding (SJ). |
 | [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-streets-clipped.json) | Raw data of the NYC Street Centerline (CSCL) data set where street centerline roadway type == Street. |
