@@ -1,7 +1,7 @@
 # Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020  
 Mark Bauer  
 
-![cover photo](figures/cover-photo.png)
+![cover photo](figures/cover-photo.png) 
 
 # Table of Contents
 
@@ -11,32 +11,29 @@ Mark Bauer
        * [Prerequisites](#Prerequisites)
            * [Data Science Tools: Anaconda](#Data-Science-Tools-Anaconda)
                * [Included Python Libraries](#Included-Python-Libraries)
-               * [Additional Python Libraries](#Additional-Python-Libraries)     
+               * [Additional Libraries](#Additional-Libraries)     
        * [Notebooks](#Notebooks)
-       * [Data](#Data)
-       * [Further Reading](#Further-Reading)     
+       * [Data](#Data)     
    * [Resources](#Resources)
    * [Media](#Media)
    * [Further Reading](#Further-Reading)
    * [Say Hello!](#Say-Hello)
 
-
 # Executive Summary
 
 In progress...
 
-
 # Introduction
 
-I conducted an analysis of street flooding complaints with NYC Open Data's 311 data set. Specifically, I attempt to answer the following questions:
+I conducted an analysis of street flooding complaints with NYC Open Data's 311 data set. Specifically, I attempted to answer the following questions:
 
 - What is the distribution of street flooding complaints by neighborhood, borough and citywide?
 - How have street flooding complaints changed over time?
-- What streets experience the most 311 street flooding complaints?
-- What days and weeks experienced the most street flooding complaints?
+- Which streets experienced the most 311 street flooding complaints?
+- Which days and weeks experienced the most street flooding complaints?
 - What are the average and median response hours to 311 street flooding complaints?
 
-I've also included case studies from the neighborhoods of:
+I've also included case studies from the neighborhoods:
 
 - Hammels, Arverne, and Edgemere, Queens  
 - New Dorp - Midland Beach, Staten Island
@@ -56,7 +53,7 @@ Download and install [Anaconda](https://www.anaconda.com/products/individual) py
 - matplotlib
 - seaborn
 
-#### Additional Python Libraries
+#### Additional Libraries
 
 I am using a Mac, but if you're using Windows, you may need to install these packages:
 
@@ -109,6 +106,8 @@ Data dictionaries for the data sets above can be found in the [data-dictionaries
 # Resources
 
 - [NYC Open Data](https://opendata.cityofnewyork.us/)
+
+- [About NYC 311](https://portal.311.nyc.gov/about-nyc-311/)
 
 - [311 Service Requests from 2010 to Present Webpage](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 
