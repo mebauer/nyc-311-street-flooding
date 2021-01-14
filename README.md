@@ -25,7 +25,7 @@ In progress...
 
 # Introduction
 
-I conducted an analysis of street flooding complaints with NYC Open Data's 311 data set. Specifically, I attempted to answer the following questions:
+I conducted an analysis of street flooding complaints with [NYC Open Data's 311 data set](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). Specifically, I attempted to answer the following questions:
 
 - What is the distribution of street flooding complaints by neighborhood, borough and citywide?
 - How have street flooding complaints changed over time?
