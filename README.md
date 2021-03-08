@@ -33,6 +33,8 @@ In this project, I explored NYC's 311 street flooding complaints data. Specifica
 3. The average and median response hours to 311 street flooding complaints  
 3. Case studies from Midland Beach, Staten Island and Arverne, Queens
 
+You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-311-street-flooding/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fmebauer%2Fnyc-311-street-flooding%2Fblob%2Fmain%2Fmybinder-example%2Fmybinder_example.ipynb). Loading MyBinder is a bit slow, but it will load eventually.
+
 # Prerequisites
 
 - Basics of Python or other  programming languages (R, SQL, etc.)
