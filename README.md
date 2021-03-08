@@ -25,23 +25,34 @@ In progress...
 
 # Introduction
 
-I conducted an analysis of street flooding complaints with [NYC Open Data's 311 data set](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). Specifically, I attempted to answer the following questions:
+Flooding poses a serious threat to coastal cities all around the world, and New York City is no exception. Hurricane Sandy in 2012 devastated the area, with many communities still suffering from its effects or unable to fully recover.  What can citizen science data tell us about where flooding occurs and how it is changing over time? Additionally, how can this data potentially play a role in how New York City prepares and ultimately mitigates flooding in the future?  
 
-- What is the distribution of street flooding complaints by neighborhood, borough and citywide?
-- How have street flooding complaints changed over time?
-- Which streets experienced the most 311 street flooding complaints?
-- Which days and weeks experienced the most street flooding complaints?
-- What are the average and median response hours to 311 street flooding complaints?
+In this project, I explored NYC's 311 street flooding complaints data. Specifically, I attempted to answer the following questions:
+1. The distribution of street flooding complaints throughout the five boroughs  
+2. How street flooding complaints are changing over time  
+3. The average and median response hours to 311 street flooding complaints  
+3. Case studies from Midland Beach, Staten Island and Arverne, Queens
 
-I've also included case studies from the neighborhoods:
+# Notebooks
 
-- Hammels, Arverne, and Edgemere, Queens  
-- New Dorp - Midland Beach, Staten Island
+You can view these notebooks through your browser by clicking *View* under the *Static Webpage* column.  
+
+| File Name | Description | Static Webpage |
+| :-------- | :---------- | :------------- |
+| [analysis_mapping.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_mapping.ipynb) | Analyzing street flooding complaints by location. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_mapping.ipynb) |
+| [analysis_timeseries.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_timeseries.ipynb) | Analyzing street flooding complaints through time. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_timeseries.ipynb) |
+| [analysis_streets_and_case_studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beachs. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) |
 
 
 # Getting Started
 
 ## Prerequisites
+
+- Basics of Python or other  programming languages (R, SQL, etc.)
+- Knowledge of Data Analysis
+- Basics of Jupyter Notebooks
+
+This proejct recommends beginner-level proficiency with Python and is focused on applying Python to data analysis.
 
 ### Data Science Tools: Anaconda
 
@@ -83,23 +94,15 @@ I am using a Mac, but if you're using Windows, you may need to install these pac
 
 `conda install -c conda-forge watermark`
 
-## Notebooks
-
-| File Name | Description |
-| :-------- | :---------- |
-| [311-street-flooding-complaints.ipynb](analysis-nyc-311-street-flooding.ipynb) | Analysis of citywide street flooding complaints in the 311 data set. Analysis includes maps, timeseries, bar plots and other types of visualizations. |
-| [assign-complaints-to-streets.ipynb](analysis-assign-complaints-to-streets.ipynb) | Analysis for assigning 311 street flooding complaints to streets. Also includes data visualizations about which streets have the most street flooding complaints, as well as case studies for Midland Beach, Staten Island and Arverne, Queens. |
-| [data-wrangling-311-data.ipynb](/data-wrangling/data-wrangling-311-data.ipynb) | Data wrangling for exporting the 311 data using Socrata's API. Note: I signed up for an API key. |
-| [data-wrangling-streets-data.ipynb](/data-wrangling/data-wrangling-streets-data.ipynb) | Data wrangling for clipping and extracting NYC streets. |
 
 ## Data 
 
-| Data Set | Description |
+| Dataset | Description |
 | :-------- | :---------- |
-| [311 Street Flooding Complaints](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-street-flooding-data.csv) | Raw data for all 311 Service Requests from 2010 to present where descriptor == Street Flooding. |
-| [Streets](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-raw/raw-streets-clipped.json) | Raw data of the NYC Street Centerline (CSCL) data set where street centerline roadway type == Street. |
-| [Neighborhood Tabulation Areas]() | Raw data for NYC Neighborhood Tabulation Areas (NTA). |
-| [Boroughs]() | Raw data of NYC boroughs. |
+| [311 Street Flooding Complaints](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) | All 311 Service Requests from 2010 to present. |
+| [Streets](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b) | The NYC Street Centerline (CSCL) is a road-bed representation of New York City streets containing address ranges and other information such as traffic directions, road types, segment types. |
+| [Neighborhood Tabulation Areas](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) | GIS data: Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks. These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs). |
+| [Boroughs]() | GIS data of NYC boroughs. |
 
 Data dictionaries for the data sets above can be found in the [data-dictionaries](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-dictionaries) folder. 
 
@@ -129,3 +132,4 @@ I can be reached at:
 
 [Twitter](https://twitter.com/markbauerwater)  
 [LinkedIn](https://www.linkedin.com/in/markebauer/)
+[GitHub](https://github.com/mebauer)

@@ -179,7 +179,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 5386,PARSONS BLVD,,,0.0,0.0,
 90519,60 ST,,,0.0,0.0,
 101692,172 ST,,,0.0,0.0,
-58534,KEARNEY AVE,Pelham Bay-Country Club-City Island,Bronx,5.0,0.45346685372460005,"KEARNEY AVE, Pelham Bay-Country Club-City Island, Bronx"
+58534,KEARNEY AVE,Pelham Bay-Country Club-City Island,Bronx,4.0,0.36277348297968004,"KEARNEY AVE, Pelham Bay-Country Club-City Island, Bronx"
 4722,S  CONDUIT AVE,,,0.0,0.0,
 86717,OAKLAND AVE,,,0.0,0.0,
 68703,E  52 ST,,,0.0,0.0,
@@ -1940,7 +1940,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 17209,LIBERTY AVE,,,0.0,0.0,
 8525,ROCKAWAY BLVD,,,0.0,0.0,
 13971,114 ST,,,0.0,0.0,
-89740,FREDERICK ST,,,0.0,0.0,
+89740,FREDERICK ST,Westerleigh,Staten Island,1.0,0.14580086062577574,"FREDERICK ST, Westerleigh, Staten Island"
 38497,CHURCH AVE,,,0.0,0.0,
 83984,255 ST,,,0.0,0.0,
 20812,145 AVE,,,0.0,0.0,
@@ -3501,7 +3501,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 31008,UTOPIA PKWY,,,0.0,0.0,
 52025,WOODVALE AVE,,,0.0,0.0,
 42415,MERMAID AVE,,,0.0,0.0,
-83447,194 ST,Auburndale,Queens,1.0,0.08901710641223673,"194 ST, Auburndale, Queens"
+83447,194 ST,,,0.0,0.0,
 99021,ESSEX ST,Chinatown,Manhattan,1.0,0.08965336322426586,"ESSEX ST, Chinatown, Manhattan"
 100621,KEIBER CT,,,0.0,0.0,
 116966,E  163 ST,,,0.0,0.0,
@@ -7897,7 +7897,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 168151,E  122 ST,,,0.0,0.0,
 95368,HUXLEY AVE,,,0.0,0.0,
 34826,CHERRY AVE,,,0.0,0.0,
-80904,E  SIXTH RD,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,2.0,0.4350312010613792,"E  SIXTH RD, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
+80904,E  SIXTH RD,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,1.0,0.2175156005306896,"E  SIXTH RD, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
 162246,65 ST,,,0.0,0.0,
 69822,MAGUIRE AVE,Rossville-Woodrow,Staten Island,1.0,0.04782657545099753,"MAGUIRE AVE, Rossville-Woodrow, Staten Island"
 40510,SOUTH BLVD,,,0.0,0.0,
@@ -8821,7 +8821,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 13395,CORONA AVE,,,0.0,0.0,
 146255,TILLARY ST,,,0.0,0.0,
 66360,63 ST,,,0.0,0.0,
-44888,RICHMD TER,West New Brighton-New Brighton-St. George,Staten Island,1.0,0.10854741477258645,"RICHMD TER, West New Brighton-New Brighton-St. George, Staten Island"
+44888,RICHMD TER,,,0.0,0.0,
 49058,BKLYN AVE,,,0.0,0.0,
 43331,ATLANTIC AVE,,,0.0,0.0,
 182923,54 DR,,,0.0,0.0,
@@ -10265,7 +10265,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 27384,137 AVE,,,0.0,0.0,
 98884,MAGNOLIA PL,,,0.0,0.0,
 99362,W  CASTER PL,,,0.0,0.0,
-38712,FLATBUSH AVE,Erasmus,Brooklyn,3.0,0.26390930252605355,"FLATBUSH AVE, Erasmus, Brooklyn"
+38712,FLATBUSH AVE,Erasmus,Brooklyn,2.0,0.17593953501736903,"FLATBUSH AVE, Erasmus, Brooklyn"
 36576,FORT HAMILTN PKWY,,,0.0,0.0,
 65128,ANTHONY AVE,,,0.0,0.0,
 92352,RIVIERA CT,,,0.0,0.0,
@@ -10415,7 +10415,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 4945,THIRD AVE,,,0.0,0.0,
 25598,LIVERPOOL ST,,,0.0,0.0,
 18730,VAN WYCK BLVD,,,0.0,0.0,
-20172,126 ST,South Ozone Park,Queens,2.0,0.13348065098628156,"126 ST, South Ozone Park, Queens"
+20172,126 ST,South Ozone Park,Queens,1.0,0.06674032549314078,"126 ST, South Ozone Park, Queens"
 40647,WCHESTER AVE,Soundview-Bruckner,Bronx,1.0,0.14495931338974777,"WCHESTER AVE, Soundview-Bruckner, Bronx"
 21526,FAIRVIEW AVE,,,0.0,0.0,
 183439,WCHESTER AVE,,,0.0,0.0,
@@ -10838,7 +10838,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 103909,MEADOW RD,,,0.0,0.0,
 47985,LOMBARDY ST,,,0.0,0.0,
 72848,WILLMOHR ST,,,0.0,0.0,
-99735,WEST RD,,,0.0,0.0,
+99735,WEST RD,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,1.0,0.1458358305744349,"WEST RD, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
 92232,132 ST,,,0.0,0.0,
 33058,50 AVE,,,0.0,0.0,
 68225,56 AVE,,,0.0,0.0,
@@ -10877,7 +10877,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 74870,196 ST,,,0.0,0.0,
 85406,E  42 ST,,,0.0,0.0,
 163826,RIVER RD,,,0.0,0.0,
-74799,AVE N,Canarsie,Brooklyn,6.0,0.8574161644977022,"AVE N, Canarsie, Brooklyn"
+74799,AVE N,Canarsie,Brooklyn,5.0,0.7145134704147518,"AVE N, Canarsie, Brooklyn"
 42193,NEW UTRECHT AVE,,,0.0,0.0,
 80963,B 102 ST,,,0.0,0.0,
 49260,ARDEN AVE,,,0.0,0.0,
@@ -11352,7 +11352,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 46105,ROGERS AVE,,,0.0,0.0,
 87006,SIGNAL HILL RD,,,0.0,0.0,
 144388,56 AVE,,,0.0,0.0,
-163457,TENTH AVE,park-cemetery-etc-Manhattan,Manhattan,1.0,0.5410983710986822,"TENTH AVE, park-cemetery-etc-Manhattan, Manhattan"
+163457,TENTH AVE,,,0.0,0.0,
 25710,21 RD,,,0.0,0.0,
 171725,AMBOY RD,Great Kills,Staten Island,3.0,0.3346672765296151,"AMBOY RD, Great Kills, Staten Island"
 7413,HOOKCREEK BLVD,,,0.0,0.0,
@@ -15098,7 +15098,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 39426,SHORE PW,,,0.0,0.0,
 82851,139 AVE,,,0.0,0.0,
 103081,ANNA CT,,,0.0,0.0,
-104622,AVON LN,Westerleigh,Staten Island,1.0,0.15772882034458918,"AVON LN, Westerleigh, Staten Island"
+104622,AVON LN,,,0.0,0.0,
 37914,BAILEY AVE,,,0.0,0.0,
 51928,DRUMGOOLE RD E,,,0.0,0.0,
 42872,16 AVE,,,0.0,0.0,
@@ -16820,7 +16820,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 146040,WILLIS AVE,,,0.0,0.0,
 73771,CLEVELAND ST,,,0.0,0.0,
 102860,MILLS AVE,,,0.0,0.0,
-163505,RICHMD TER,West New Brighton-New Brighton-St. George,Staten Island,1.0,0.0640251201223503,"RICHMD TER, West New Brighton-New Brighton-St. George, Staten Island"
+163505,RICHMD TER,,,0.0,0.0,
 49489,RICHMOND AVE,Great Kills,Staten Island,1.0,0.1265708414059286,"RICHMOND AVE, Great Kills, Staten Island"
 72099,E  94 ST,Rugby-Remsen Village,Brooklyn,8.0,0.5263953022257484,"E  94 ST, Rugby-Remsen Village, Brooklyn"
 21389,MAURICE AVE,,,0.0,0.0,
@@ -17568,7 +17568,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 7650,119 AVE,,,0.0,0.0,
 16032,AMBOY RD,,,0.0,0.0,
 88194,BLAKE CT,,,0.0,0.0,
-32514,HIGHLAND AVE,Jamaica Estates-Holliswood,Queens,24.0,1.8341293162244703,"HIGHLAND AVE, Jamaica Estates-Holliswood, Queens"
+32514,HIGHLAND AVE,Jamaica Estates-Holliswood,Queens,23.0,1.757707261381784,"HIGHLAND AVE, Jamaica Estates-Holliswood, Queens"
 23279,E  48 ST,Midtown-Midtown South,Manhattan,1.0,0.34959365893704597,"E  48 ST, Midtown-Midtown South, Manhattan"
 146176,36 AVE,,,0.0,0.0,
 89869,171 ST,,,0.0,0.0,
@@ -18931,7 +18931,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 76933,FAHY AVE,,,0.0,0.0,
 30927,LAKEVIEW BLVD E,,,0.0,0.0,
 104467,HEMLOCK CT,,,0.0,0.0,
-3715,3 AVE,East Harlem North,Manhattan,1.0,0.14633294670443286,"3 AVE, East Harlem North, Manhattan"
+3715,3 AVE,,,0.0,0.0,
 68936,E  53 ST,Flatlands,Brooklyn,1.0,0.05346518010364709,"E  53 ST, Flatlands, Brooklyn"
 4809,111 AVE,,,0.0,0.0,
 185263,COENTIES ALY,,,0.0,0.0,
@@ -21716,7 +21716,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 18960,BAILSEY BLVD,,,0.0,0.0,
 142880,QUEENSBORO BR UPPER ROADWAY APPR,,,0.0,0.0,
 39055,UNION PL,,,0.0,0.0,
-21412,28 AVE,Woodside,Queens,1.0,0.1501856983873882,"28 AVE, Woodside, Queens"
+21412,28 AVE,Woodside,Queens,2.0,0.3003713967747764,"28 AVE, Woodside, Queens"
 164065,18 AVE,,,0.0,0.0,
 104777,ERIC LN,,,0.0,0.0,
 97053,62 AVE,,,0.0,0.0,
@@ -25645,7 +25645,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 9583,NORTHERN BL  E,,,0.0,0.0,
 73188,208 PL,,,0.0,0.0,
 88850,W  60 ST,,,0.0,0.0,
-103168,B 145 ST,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,2.0,0.12404687336848597,"B 145 ST, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
+103168,B 145 ST,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,1.0,0.06202343668424298,"B 145 ST, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
 77204,ARTHUR AVE,,,0.0,0.0,
 161739,WOODROW RD,,,0.0,0.0,
 29639,88 ST,,,0.0,0.0,
@@ -28545,7 +28545,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 81910,E  77 ST,,,0.0,0.0,
 56596,25 AVE,,,0.0,0.0,
 17402,LABURNUM AVE,East Flushing,Queens,1.0,0.14716536766559535,"LABURNUM AVE, East Flushing, Queens"
-82905,232 ST,Oakland Gardens,Queens,2.0,0.23400336300410002,"232 ST, Oakland Gardens, Queens"
+82905,232 ST,park-cemetery-etc-Queens,Queens,3.0,0.35100504450615005,"232 ST, park-cemetery-etc-Queens, Queens"
 89170,SCHAEFER ST,,,0.0,0.0,
 41777,BOSTON POST RD,,,0.0,0.0,
 2805,W  END AVE,Lincoln Square,Manhattan,1.0,0.14622150426432745,"W  END AVE, Lincoln Square, Manhattan"
@@ -29044,7 +29044,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 65623,SHORE PW,,,0.0,0.0,
 6261,LINDEN BLVD,South Ozone Park,Queens,7.0,1.023021022923138,"LINDEN BLVD, South Ozone Park, Queens"
 70822,ROACKAWAY PKWY,,,0.0,0.0,
-24416,SPRINGFIELD BLVD,Queens Village,Queens,6.0,0.5006322772864711,"SPRINGFIELD BLVD, Queens Village, Queens"
+24416,SPRINGFIELD BLVD,Queens Village,Queens,5.0,0.4171935644053926,"SPRINGFIELD BLVD, Queens Village, Queens"
 103845,WILLETS ST,,,0.0,0.0,
 31348,GLENWOOD AVE,,,0.0,0.0,
 55299,BARLOW AVE,,,0.0,0.0,
@@ -31139,7 +31139,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 10200,25 DR,,,0.0,0.0,
 93492,GCP,,,0.0,0.0,
 60948,W  236 ST,,,0.0,0.0,
-98638,ELMIRA AVE,Westerleigh,Staten Island,12.0,1.4303264622798217,"ELMIRA AVE, Westerleigh, Staten Island"
+98638,ELMIRA AVE,Westerleigh,Staten Island,10.0,1.1919387185665182,"ELMIRA AVE, Westerleigh, Staten Island"
 90222,AVE Y,,,0.0,0.0,
 9033,92 ST,,,0.0,0.0,
 46982,EMMONS AVE,,,0.0,0.0,
@@ -38178,7 +38178,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 25503,164 ST,,,0.0,0.0,
 596,HUDSON ST,,,0.0,0.0,
 167213,SAGAMORE ST,,,0.0,0.0,
-48912,MADISON ST,Bedford,Brooklyn,2.0,0.09048401681955069,"MADISON ST, Bedford, Brooklyn"
+48912,MADISON ST,Bedford,Brooklyn,1.0,0.045242008409775346,"MADISON ST, Bedford, Brooklyn"
 74345,212 ST,,,0.0,0.0,
 78393,E  98 ST,,,0.0,0.0,
 12307,QUEENS BLVD,,,0.0,0.0,
@@ -38239,7 +38239,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 90491,OBRIEN PL,,,0.0,0.0,
 163633,TRANSVERSE NUMBER FOUR,,,0.0,0.0,
 3478,E  43 ST,Turtle Bay-East Midtown,Manhattan,1.0,0.08522207288334419,"E  43 ST, Turtle Bay-East Midtown, Manhattan"
-42836,49 ST,Borough Park,Brooklyn,11.0,0.842228553462413,"49 ST, Borough Park, Brooklyn"
+42836,49 ST,Borough Park,Brooklyn,10.0,0.7656623213294663,"49 ST, Borough Park, Brooklyn"
 13966,75 AVE,Forest Hills,Queens,1.0,0.06451582311783007,"75 AVE, Forest Hills, Queens"
 37781,3 AVE,,,0.0,0.0,
 79860,LEONARD ST,,,0.0,0.0,
@@ -41607,7 +41607,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 71856,ELTON ST,East New York,Brooklyn,2.0,0.15372217634420723,"ELTON ST, East New York, Brooklyn"
 76023,WINCHESTER AVE,,,0.0,0.0,
 102450,KALMIA AVE,Flushing,Queens,1.0,0.05533379535652494,"KALMIA AVE, Flushing, Queens"
-38714,FLATBUSH AVE,Flatbush,Brooklyn,1.0,0.1884693620072265,"FLATBUSH AVE, Flatbush, Brooklyn"
+38714,FLATBUSH AVE,,,0.0,0.0,
 99664,82 DR,,,0.0,0.0,
 57657,E  237 ST,Woodlawn-Wakefield,Bronx,1.0,0.14867395721481141,"E  237 ST, Woodlawn-Wakefield, Bronx"
 37906,BAILEY AVE,,,0.0,0.0,
@@ -41641,7 +41641,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 6245,LINDEN BLVD,,,0.0,0.0,
 72017,E  NEW YORK AVE,,,0.0,0.0,
 67883,E  20 ST,,,0.0,0.0,
-75558,AMBER ST,East New York,Brooklyn,2.0,0.15612775607204707,"AMBER ST, East New York, Brooklyn"
+75558,AMBER ST,East New York,Brooklyn,1.0,0.07806387803602353,"AMBER ST, East New York, Brooklyn"
 54969,50 ST,,,0.0,0.0,
 71781,PINE ST,,,0.0,0.0,
 3124,RIVERSIDE DR,,,0.0,0.0,
@@ -44880,7 +44880,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 41875,BRADEY AVE,,,0.0,0.0,
 63688,NAVY ST,,,0.0,0.0,
 25353,111 AVE,,,0.0,0.0,
-99453,74 PL,,,0.0,0.0,
+99453,74 PL,Woodhaven,Queens,1.0,0.11401791036669154,"74 PL, Woodhaven, Queens"
 81231,GRAMERCY PARK N,,,0.0,0.0,
 16396,AZTEC PL,,,0.0,0.0,
 17911,LEWIS BLVD,,,0.0,0.0,
@@ -45393,7 +45393,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 75864,79 AVE,,,0.0,0.0,
 12441,QUEENS BLVD,,,0.0,0.0,
 27120,150 ST,,,0.0,0.0,
-99963,50 AVE,park-cemetery-etc-Queens,Queens,1.0,0.15208946951157112,"50 AVE, park-cemetery-etc-Queens, Queens"
+99963,50 AVE,,,0.0,0.0,
 38140,AVE J,,,0.0,0.0,
 68781,E  55 ST,Flatlands,Brooklyn,1.0,0.05815668167757065,"E  55 ST, Flatlands, Brooklyn"
 56252,MORRIS PARK AVE,,,0.0,0.0,
@@ -46137,7 +46137,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 83084,157 ST,,,0.0,0.0,
 68157,DYER AVE,,,0.0,0.0,
 60176,PARK PL,Park Slope-Gowanus,Brooklyn,1.0,0.058148360307773095,"PARK PL, Park Slope-Gowanus, Brooklyn"
-79120,F ROOSEVELT DR,Lower East Side,Manhattan,1.0,0.12416191113020753,"F ROOSEVELT DR, Lower East Side, Manhattan"
+79120,F ROOSEVELT DR,,,0.0,0.0,
 53309,65 ST,,,0.0,0.0,
 25387,115 AVE,Baisley Park,Queens,2.0,0.29335429484842673,"115 AVE, Baisley Park, Queens"
 56976,RIDGECREST AVE,,,0.0,0.0,
@@ -46286,7 +46286,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 48547,EAST PKWY,Crown Heights North,Brooklyn,3.0,0.17640881534482025,"EAST PKWY, Crown Heights North, Brooklyn"
 87351,ELLSWORTH AVE,,,0.0,0.0,
 41694,MACE AVE,,,0.0,0.0,
-180669,81 ST,Steinway,Queens,3.0,1.4313221367736901,"81 ST, Steinway, Queens"
+180669,81 ST,Steinway,Queens,2.0,0.9542147578491266,"81 ST, Steinway, Queens"
 26015,77 AVE,,,0.0,0.0,
 1996,FIFTH AVE,Upper East Side-Carnegie Hill,Manhattan,1.0,0.14722018340788315,"FIFTH AVE, Upper East Side-Carnegie Hill, Manhattan"
 92745,226 ST,,,0.0,0.0,
@@ -48668,7 +48668,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 58135,JULES DR,,,0.0,0.0,
 22495,MURDOCK AVE,St. Albans,Queens,10.0,1.4648726113398205,"MURDOCK AVE, St. Albans, Queens"
 69597,PROSPECT PL,,,0.0,0.0,
-167250,B 79 ST,Hammels-Arverne-Edgemere,Queens,6.0,0.8821787243852767,"B 79 ST, Hammels-Arverne-Edgemere, Queens"
+167250,B 79 ST,Hammels-Arverne-Edgemere,Queens,5.0,0.7351489369877307,"B 79 ST, Hammels-Arverne-Edgemere, Queens"
 4181,SCHIFF PKWY,,,0.0,0.0,
 50623,ROSEWOOD ST,,,0.0,0.0,
 88505,E  11 ST,,,0.0,0.0,
@@ -48817,7 +48817,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 91411,WILLOW LN,Pelham Bay-Country Club-City Island,Bronx,3.0,0.43639747595469586,"WILLOW LN, Pelham Bay-Country Club-City Island, Bronx"
 69293,AMERSFORT PL,,,0.0,0.0,
 68859,RALPH AVE,,,0.0,0.0,
-14753,CRONSTON AVE,,,0.0,0.0,
+14753,CRONSTON AVE,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,1.0,0.14908921882070297,"CRONSTON AVE, Breezy Point-Belle Harbor-Rockaway Park-Broad Channel, Queens"
 139705,6 DR,,,0.0,0.0,
 41411,BRUCKNER BLVD,,,0.0,0.0,
 93674,VANBUREN ST,,,0.0,0.0,
@@ -52387,7 +52387,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 2652,FIRST AVE,,,0.0,0.0,
 31038,UTOPIA PKWY,,,0.0,0.0,
 98282,ALDERWOOD PL,,,0.0,0.0,
-28655,WESTMORELAND ST,Douglas Manor-Douglaston-Little Neck,Queens,1.0,0.1518965149808184,"WESTMORELAND ST, Douglas Manor-Douglaston-Little Neck, Queens"
+28655,WESTMORELAND ST,,,0.0,0.0,
 16604,PIKE ST,,,0.0,0.0,
 3781,C P  W,,,0.0,0.0,
 22403,115 AVE,,,0.0,0.0,
@@ -56015,7 +56015,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 4103,W  79 ST,,,0.0,0.0,
 27113,150 ST,,,0.0,0.0,
 79256,253 ST,,,0.0,0.0,
-54989,50 ST,Borough Park,Brooklyn,1.0,0.0526175220515509,"50 ST, Borough Park, Brooklyn"
+54989,50 ST,,,0.0,0.0,
 113530,ELTON ST,,,0.0,0.0,
 72410,CHAUNCEY ST,,,0.0,0.0,
 42260,BATH AVE,,,0.0,0.0,
@@ -56684,7 +56684,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 45296,MARTENCE ST,,,0.0,0.0,
 42978,BENSON AVE,,,0.0,0.0,
 27674,DECATUR ST,Ridgewood,Queens,2.0,0.14528335405701676,"DECATUR ST, Ridgewood, Queens"
-44654,MILL RD,Oakwood-Oakwood Beach,Staten Island,89.0,9.178798835238275,"MILL RD, Oakwood-Oakwood Beach, Staten Island"
+44654,MILL RD,Oakwood-Oakwood Beach,Staten Island,88.0,9.075666264055823,"MILL RD, Oakwood-Oakwood Beach, Staten Island"
 20674,204 ST,,,0.0,0.0,
 98028,CARY CT,,,0.0,0.0,
 38537,PACIFIC ST,,,0.0,0.0,
@@ -57624,7 +57624,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 58444,BOGART AVE,Pelham Parkway,Bronx,1.0,0.26401641368063633,"BOGART AVE, Pelham Parkway, Bronx"
 43393,PACIFIC ST,,,0.0,0.0,
 89380,TROY AVE,,,0.0,0.0,
-98734,BOKEE CT,,,0.0,0.0,
+98734,BOKEE CT,Gravesend,Brooklyn,1.0,0.10963834834900175,"BOKEE CT, Gravesend, Brooklyn"
 80831,B 34 ST,,,0.0,0.0,
 37839,3 AVE,,,0.0,0.0,
 43071,HENRY ST,,,0.0,0.0,
@@ -61169,7 +61169,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 93932,EDGEGROVE AVE,,,0.0,0.0,
 163889,UNIVERSITY AVE,,,0.0,0.0,
 40676,WCHESTER AVE,,,0.0,0.0,
-28611,WINCHESTER BLVD,Queens Village,Queens,1.0,0.24724423386350186,"WINCHESTER BLVD, Queens Village, Queens"
+28611,WINCHESTER BLVD,,,0.0,0.0,
 25700,JEWEL AVE,,,0.0,0.0,
 83410,36 AVE,,,0.0,0.0,
 9164,MYRTLE AVE,,,0.0,0.0,
@@ -61806,7 +61806,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 181763,PERSHING LOOP W,,,0.0,0.0,
 13135,ASTORIA BLVD  N,,,0.0,0.0,
 94420,BRIDGETOWN ST,,,0.0,0.0,
-69011,SAINT NICHOLAS'S AVE,Bushwick North,Brooklyn,2.0,0.2935990463127758,"SAINT NICHOLAS'S AVE, Bushwick North, Brooklyn"
+69011,SAINT NICHOLAS'S AVE,Bushwick North,Brooklyn,1.0,0.1467995231563879,"SAINT NICHOLAS'S AVE, Bushwick North, Brooklyn"
 38902,OCEAN PKWY,,,0.0,0.0,
 75199,JUNIUS ST,,,0.0,0.0,
 109815,CYPRES HIL ST,,,0.0,0.0,
@@ -62421,7 +62421,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 42691,COURT ST,,,0.0,0.0,
 99675,164 ST,,,0.0,0.0,
 115912,E  153 ST,,,0.0,0.0,
-55352,KING ST,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,4.0,0.6064832676193729,"KING ST, Annadale-Huguenot-Prince's Bay-Eltingville, Staten Island"
+55352,KING ST,Annadale-Huguenot-Prince's Bay-Eltingville,Staten Island,3.0,0.45486245071452963,"KING ST, Annadale-Huguenot-Prince's Bay-Eltingville, Staten Island"
 165827,235 ST,,,0.0,0.0,
 72235,D AVE,,,0.0,0.0,
 50290,BURGHER AVE,,,0.0,0.0,
@@ -63398,7 +63398,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 50472,WEBSTER AVE,,,0.0,0.0,
 30079,92 AVE,,,0.0,0.0,
 163999,WHE,,,0.0,0.0,
-157023,SAPPHIRE ST,Lindenwood-Howard Beach,Queens,54.0,9.193703374235222,"SAPPHIRE ST, Lindenwood-Howard Beach, Queens"
+157023,SAPPHIRE ST,Lindenwood-Howard Beach,Queens,53.0,9.023449608045683,"SAPPHIRE ST, Lindenwood-Howard Beach, Queens"
 46341,LINDEN BLVD,,,0.0,0.0,
 61732,W  FOURTH ST,,,0.0,0.0,
 40783,E  GUN HILL RD,,,0.0,0.0,
@@ -64427,7 +64427,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 42290,60 ST,,,0.0,0.0,
 98094,MOULTRIE ST,,,0.0,0.0,
 91690,132 AVE,Springfield Gardens North,Queens,1.0,0.4271048209878549,"132 AVE, Springfield Gardens North, Queens"
-186402,DYCKMAN ST,park-cemetery-etc-Manhattan,Manhattan,1.0,0.045666262746517236,"DYCKMAN ST, park-cemetery-etc-Manhattan, Manhattan"
+186402,DYCKMAN ST,park-cemetery-etc-Manhattan,Manhattan,2.0,0.09133252549303447,"DYCKMAN ST, park-cemetery-etc-Manhattan, Manhattan"
 56143,BX AND PELHAM  N,,,0.0,0.0,
 78717,23 ST,,,0.0,0.0,
 149403,REEDS MILL LN,,,0.0,0.0,
@@ -65435,7 +65435,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 13759,ROMAN AVE,,,0.0,0.0,
 71638,154 ST,,,0.0,0.0,
 74386,BECK ST,,,0.0,0.0,
-62364,E  161 ST,Morrisania-Melrose,Bronx,1.0,0.17852465964883288,"E  161 ST, Morrisania-Melrose, Bronx"
+62364,E  161 ST,,,0.0,0.0,
 69066,SAINT JOHNS PL,Crown Heights North,Brooklyn,1.0,0.05889200686608439,"SAINT JOHNS PL, Crown Heights North, Brooklyn"
 9735,NORTHERN BL  E,,,0.0,0.0,
 18457,182 ST,Springfield Gardens South-Brookville,Queens,1.0,0.12403864471290285,"182 ST, Springfield Gardens South-Brookville, Queens"
@@ -67018,7 +67018,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 135893,BERRY PL,,,0.0,0.0,
 42848,16 AVE,,,0.0,0.0,
 167048,ROCKAWAY BEACH AVE,,,0.0,0.0,
-93155,40 AVE,Douglas Manor-Douglaston-Little Neck,Queens,1.0,0.1523663925906638,"40 AVE, Douglas Manor-Douglaston-Little Neck, Queens"
+93155,40 AVE,,,0.0,0.0,
 98655,UNNAMED ST,,,0.0,0.0,
 3975,E  TENTH ST,,,0.0,0.0,
 30526,76 ST,,,0.0,0.0,
@@ -71076,7 +71076,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 42194,NEW UTRECHT AVE,,,0.0,0.0,
 135524,HELLS GATE CIR,,,0.0,0.0,
 28883,60 ST,,,0.0,0.0,
-99128,MIDWOOD ST,Prospect Lefferts Gardens-Wingate,Brooklyn,15.0,1.2090768134023022,"MIDWOOD ST, Prospect Lefferts Gardens-Wingate, Brooklyn"
+99128,MIDWOOD ST,Prospect Lefferts Gardens-Wingate,Brooklyn,14.0,1.1284716925088154,"MIDWOOD ST, Prospect Lefferts Gardens-Wingate, Brooklyn"
 145585,MEEKER AVE,,,0.0,0.0,
 59103,PORTAGE AVE,,,0.0,0.0,
 19825,E  88 ST,,,0.0,0.0,
@@ -75575,7 +75575,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 93326,59 RD,,,0.0,0.0,
 66469,SCHNECTADY AVE,East Flatbush-Farragut,Brooklyn,2.0,0.10849604558974538,"SCHNECTADY AVE, East Flatbush-Farragut, Brooklyn"
 55041,26 AVE,Gravesend,Brooklyn,1.0,0.09053201654348526,"26 AVE, Gravesend, Brooklyn"
-73383,ATLANTIC AVE,Woodhaven,Queens,1.0,0.16256535897537172,"ATLANTIC AVE, Woodhaven, Queens"
+73383,ATLANTIC AVE,,,0.0,0.0,
 61047,E  163 ST,,,0.0,0.0,
 102857,CAROLYN LN,,,0.0,0.0,
 78382,220 ST,Queens Village,Queens,1.0,0.04457602053815243,"220 ST, Queens Village, Queens"
@@ -78089,7 +78089,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 166386,FIRST AVE,,,0.0,0.0,
 36673,BAY RIDGE AVE,,,0.0,0.0,
 23939,217 ST,,,0.0,0.0,
-67432,ALLEN ST,Chinatown,Manhattan,2.0,0.19231968570483648,"ALLEN ST, Chinatown, Manhattan"
+67432,ALLEN ST,Chinatown,Manhattan,3.0,0.2884795285572547,"ALLEN ST, Chinatown, Manhattan"
 59214,LATHROP AVE,,,0.0,0.0,
 1341,SEVENTH AVE,Hudson Yards-Chelsea-Flatiron-Union Square,Manhattan,1.0,0.1401754293073475,"SEVENTH AVE, Hudson Yards-Chelsea-Flatiron-Union Square, Manhattan"
 16400,GREENPORT RD,,,0.0,0.0,
@@ -79374,7 +79374,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 75901,CENTRAL RD,,,0.0,0.0,
 21795,E  53 ST,,,0.0,0.0,
 44703,VAN DUZER ST,,,0.0,0.0,
-96912,JACKSON ST,Lower East Side,Manhattan,2.0,0.3791676112839237,"JACKSON ST, Lower East Side, Manhattan"
+96912,JACKSON ST,Lower East Side,Manhattan,3.0,0.5687514169258855,"JACKSON ST, Lower East Side, Manhattan"
 24603,37 AVE,,,0.0,0.0,
 68961,GATES AVE,,,0.0,0.0,
 54458,EASTCHESTR RD,,,0.0,0.0,
@@ -81130,7 +81130,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 163907,E  32 ST,,,0.0,0.0,
 3007,BROADWAY,,,0.0,0.0,
 96493,BCH 92 ST,,,0.0,0.0,
-32413,247 ST,Douglas Manor-Douglaston-Little Neck,Queens,1.0,0.12997937715129204,"247 ST, Douglas Manor-Douglaston-Little Neck, Queens"
+32413,247 ST,Douglas Manor-Douglaston-Little Neck,Queens,2.0,0.2599587543025841,"247 ST, Douglas Manor-Douglaston-Little Neck, Queens"
 13547,69 AVE,,,0.0,0.0,
 91048,BARUCH PL,,,0.0,0.0,
 74092,LIBERTY AVE,,,0.0,0.0,
@@ -81557,7 +81557,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 188629,PARK DR,,,0.0,0.0,
 28030,W  165 ST,,,0.0,0.0,
 55648,BAY ST,,,0.0,0.0,
-5446,ATLANTIC AVE,Richmond Hill,Queens,1.0,0.15111314530340916,"ATLANTIC AVE, Richmond Hill, Queens"
+5446,ATLANTIC AVE,,,0.0,0.0,
 25659,130 AVE,,,0.0,0.0,
 43096,HENRY ST,,,0.0,0.0,
 180192,B 44 ST,Hammels-Arverne-Edgemere,Queens,5.0,0.5086330944558366,"B 44 ST, Hammels-Arverne-Edgemere, Queens"
@@ -85105,7 +85105,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 73368,ATLANTIC AVE,,,0.0,0.0,
 42629,58 ST,,,0.0,0.0,
 44329,LORIMER ST,,,0.0,0.0,
-94569,SHALE ST,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,Staten Island,1.0,0.09072376153775445,"SHALE ST, Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill, Staten Island"
+94569,SHALE ST,,,0.0,0.0,
 26996,E  117 ST,East Harlem North,Manhattan,2.0,0.318999305713775,"E  117 ST, East Harlem North, Manhattan"
 38234,WASHINGTON AVE,,,0.0,0.0,
 57340,HERMANY AVE,,,0.0,0.0,
@@ -85500,7 +85500,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 34404,86 AVE,,,0.0,0.0,
 32031,FARRINGTON ST,,,0.0,0.0,
 36543,6 AVE,,,0.0,0.0,
-67433,ALLEN ST,Chinatown,Manhattan,1.0,0.09246282129153482,"ALLEN ST, Chinatown, Manhattan"
+67433,ALLEN ST,,,0.0,0.0,
 51276,46 ST,Borough Park,Brooklyn,1.0,0.056501713643599426,"46 ST, Borough Park, Brooklyn"
 65842,TIBBET AVE,,,0.0,0.0,
 95119,INGRAN AVE,,,0.0,0.0,
@@ -86060,7 +86060,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 43550,WHYTE AVE,,,0.0,0.0,
 109599,COZINE AVE,,,0.0,0.0,
 20077,GOETHALS AVE,,,0.0,0.0,
-85712,FIFTH ST,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,4.0,0.29137185707780444,"FIFTH ST, Carroll Gardens-Columbia Street-Red Hook, Brooklyn"
+85712,FIFTH ST,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,7.0,0.5099007498861577,"FIFTH ST, Carroll Gardens-Columbia Street-Red Hook, Brooklyn"
 160069,PARK AVE,,,0.0,0.0,
 53439,FIFTH AVE,,,0.0,0.0,
 90513,BERGEN CV,,,0.0,0.0,
@@ -86712,7 +86712,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 3570,MADISON AVE,Murray Hill-Kips Bay,Manhattan,1.0,0.14796022842749607,"MADISON AVE, Murray Hill-Kips Bay, Manhattan"
 78658,94 AVE,,,0.0,0.0,
 11286,HARDING XW,Auburndale,Queens,1.0,0.11874516755735884,"HARDING XW, Auburndale, Queens"
-69900,BROOK AVE,,,0.0,0.0,
+69900,BROOK AVE,Morrisania-Melrose,Bronx,1.0,0.12018566805553996,"BROOK AVE, Morrisania-Melrose, Bronx"
 69676,CEDAR ST,,,0.0,0.0,
 20765,90 AVE,,,0.0,0.0,
 83555,91 RD,,,0.0,0.0,
@@ -87162,7 +87162,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 102497,LANETT AVE,Far Rockaway-Bayswater,Queens,6.0,0.6276529815225053,"LANETT AVE, Far Rockaway-Bayswater, Queens"
 47096,D AVE,,,0.0,0.0,
 102329,B 45 ST,,,0.0,0.0,
-103337,56 PL,Woodside,Queens,6.0,0.4127012115831731,"56 PL, Woodside, Queens"
+103337,56 PL,Woodside,Queens,5.0,0.3439176763193109,"56 PL, Woodside, Queens"
 51623,STUYVESANT AVE,,,0.0,0.0,
 29538,COLLEGE POINT BLVD,,,0.0,0.0,
 105375,TIFFANY CT,,,0.0,0.0,
@@ -87478,7 +87478,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 42264,BATH AVE,,,0.0,0.0,
 91146,ETON PL,New Springville-Bloomfield-Travis,Staten Island,2.0,0.13440948687717477,"ETON PL, New Springville-Bloomfield-Travis, Staten Island"
 15862,WEST SHORE PKWY,,,0.0,0.0,
-76124,LORING AVE,,,0.0,0.0,
+76124,LORING AVE,East New York,Brooklyn,1.0,0.14771841167014738,"LORING AVE, East New York, Brooklyn"
 85886,SENECA AVE,,,0.0,0.0,
 186687,BRUCKNER BLVD,,,0.0,0.0,
 103433,FILLMORE ST,,,0.0,0.0,
@@ -88502,7 +88502,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 87069,RANDALL AVE,,,0.0,0.0,
 12580,95 ST,,,0.0,0.0,
 50951,E  189 ST,,,0.0,0.0,
-49969,HOWARD AVE,Grymes Hill-Clifton-Fox Hills,Staten Island,1.0,0.08726193291680487,"HOWARD AVE, Grymes Hill-Clifton-Fox Hills, Staten Island"
+49969,HOWARD AVE,,,0.0,0.0,
 124285,SURF AVE,,,0.0,0.0,
 41638,BRUCKNER BLVD,,,0.0,0.0,
 142483,E  22 ST,,,0.0,0.0,
@@ -89985,7 +89985,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 56780,43 ST,Borough Park,Brooklyn,1.0,0.05812053609899777,"43 ST, Borough Park, Brooklyn"
 104533,SURF SIDE PLZ,Charleston-Richmond Valley-Tottenville,Staten Island,1.0,0.09453968347320998,"SURF SIDE PLZ, Charleston-Richmond Valley-Tottenville, Staten Island"
 6347,JAMAICA AVE,,,0.0,0.0,
-94910,DYRE AVE,Eastchester-Edenwald-Baychester,Bronx,9.0,0.5683246408566226,"DYRE AVE, Eastchester-Edenwald-Baychester, Bronx"
+94910,DYRE AVE,Eastchester-Edenwald-Baychester,Bronx,7.0,0.4420302762218177,"DYRE AVE, Eastchester-Edenwald-Baychester, Bronx"
 169781,WESTWOOD AVE,,,0.0,0.0,
 163531,RICHMD TER,West New Brighton-New Brighton-St. George,Staten Island,1.0,0.04204773316556331,"RICHMD TER, West New Brighton-New Brighton-St. George, Staten Island"
 116311,POMPEY AVE,,,0.0,0.0,
@@ -91676,7 +91676,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 74678,VAN SICLEN AVE,,,0.0,0.0,
 89872,171 ST,,,0.0,0.0,
 6617,182 ST,,,0.0,0.0,
-62954,BARD AVE,New Brighton-Silver Lake,Staten Island,2.0,0.26533399435458904,"BARD AVE, New Brighton-Silver Lake, Staten Island"
+62954,BARD AVE,New Brighton-Silver Lake,Staten Island,1.0,0.13266699717729452,"BARD AVE, New Brighton-Silver Lake, Staten Island"
 166165,JFK TERMINAL 5 ACCESS ROAD,,,0.0,0.0,
 54117,RICHMOND HILL RD,,,0.0,0.0,
 43103,77 ST,,,0.0,0.0,
@@ -92585,7 +92585,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 89992,NORWOOD AVE,,,0.0,0.0,
 46537,X AVE,,,0.0,0.0,
 80744,STANDISH PL,,,0.0,0.0,
-85114,EVERGREEN AVE,Old Town-Dongan Hills-South Beach,Staten Island,2.0,0.26574610982366575,"EVERGREEN AVE, Old Town-Dongan Hills-South Beach, Staten Island"
+85114,EVERGREEN AVE,Old Town-Dongan Hills-South Beach,Staten Island,1.0,0.13287305491183288,"EVERGREEN AVE, Old Town-Dongan Hills-South Beach, Staten Island"
 82512,162 ST,,,0.0,0.0,
 28821,20 AVE,,,0.0,0.0,
 56506,PROSPECT AVE,,,0.0,0.0,
@@ -93957,7 +93957,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 101554,37 ST,,,0.0,0.0,
 71332,HANCOCK ST,Bushwick North,Brooklyn,1.0,0.06241975646049823,"HANCOCK ST, Bushwick North, Brooklyn"
 66860,RALPH AVE,,,0.0,0.0,
-57984,HOYT ST,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,6.0,0.9133418078221491,"HOYT ST, Carroll Gardens-Columbia Street-Red Hook, Brooklyn"
+57984,HOYT ST,Carroll Gardens-Columbia Street-Red Hook,Brooklyn,3.0,0.45667090391107457,"HOYT ST, Carroll Gardens-Columbia Street-Red Hook, Brooklyn"
 62012,WOOLLEY AVE,,,0.0,0.0,
 25847,UNDER HILL AVE,,,0.0,0.0,
 92027,VAN CLEEF ST,,,0.0,0.0,
@@ -95742,7 +95742,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 148607,BROADWAY,,,0.0,0.0,
 146810,46 AVE,,,0.0,0.0,
 61921,BIDWELL AVE,,,0.0,0.0,
-7646,119 AVE,St. Albans,Queens,3.0,0.45589721526093224,"119 AVE, St. Albans, Queens"
+7646,119 AVE,St. Albans,Queens,2.0,0.3039314768406215,"119 AVE, St. Albans, Queens"
 51660,STAFFORD AVE,Arden Heights,Staten Island,1.0,0.05838548281457996,"STAFFORD AVE, Arden Heights, Staten Island"
 22651,BROADWAY,,,0.0,0.0,
 4247,HENRY ST,,,0.0,0.0,
@@ -96433,7 +96433,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 99803,E  16 ST,,,0.0,0.0,
 189320,AMBOY RD,Charleston-Richmond Valley-Tottenville,Staten Island,3.0,0.6082185024510874,"AMBOY RD, Charleston-Richmond Valley-Tottenville, Staten Island"
 14206,SEAGIRT BLVD,,,0.0,0.0,
-40188,WHITE PLAINS RD,Bronxdale,Bronx,2.0,0.17902724458490235,"WHITE PLAINS RD, Bronxdale, Bronx"
+40188,WHITE PLAINS RD,,,0.0,0.0,
 175659,J F K ENTRANCE RD,,,0.0,0.0,
 60448,VILLAGE RD S,,,0.0,0.0,
 71938,OCEAN AVE,,,0.0,0.0,
@@ -97180,7 +97180,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 27002,W  134 ST,,,0.0,0.0,
 25246,166 ST,,,0.0,0.0,
 32741,77 ST,,,0.0,0.0,
-103598,COLBY CT,Gravesend,Brooklyn,2.0,0.23226002833531809,"COLBY CT, Gravesend, Brooklyn"
+103598,COLBY CT,Gravesend,Brooklyn,1.0,0.11613001416765904,"COLBY CT, Gravesend, Brooklyn"
 8816,ASTORIA BLVD,,,0.0,0.0,
 36333,E  TREMONT AVE,,,0.0,0.0,
 97484,POST AVE,,,0.0,0.0,
@@ -97516,7 +97516,7 @@ physicalid,full_stree,ntaname,boro_name,count,count_per_100ft,with_nta_name
 26718,48 AVE,Elmhurst-Maspeth,Queens,1.0,0.12192087097624646,"48 AVE, Elmhurst-Maspeth, Queens"
 151771,SPENCER AVE,,,0.0,0.0,
 63089,MATHEWS AVE,New Brighton-Silver Lake,Staten Island,1.0,0.15337252632865503,"MATHEWS AVE, New Brighton-Silver Lake, Staten Island"
-173312,LORING AVE,East New York,Brooklyn,72.0,11.19556384107494,"LORING AVE, East New York, Brooklyn"
+173312,LORING AVE,East New York,Brooklyn,70.0,10.884575956600635,"LORING AVE, East New York, Brooklyn"
 45005,FT HILL CIR,West New Brighton-New Brighton-St. George,Staten Island,2.0,0.13062980310355998,"FT HILL CIR, West New Brighton-New Brighton-St. George, Staten Island"
 85918,DECATUR AVE,,,0.0,0.0,
 181874,HUNT POINT AVE,,,0.0,0.0,
