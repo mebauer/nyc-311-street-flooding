@@ -33,6 +33,14 @@ In this project, I explored NYC's 311 street flooding complaints data. Specifica
 3. The average and median response hours to 311 street flooding complaints  
 3. Case studies from Midland Beach, Staten Island and Arverne, Queens
 
+# Prerequisites
+
+- Basics of Python or other  programming languages (R, SQL, etc.)
+- Knowledge of Data Analysis
+- Basics of Jupyter Notebooks
+
+This project recommends beginner-level proficiency with Python and is focused on applying Python to data analysis.
+
 # Notebooks
 
 You can view these notebooks through your browser by clicking *View* under the *Static Webpage* column.  
@@ -44,58 +52,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [analysis_streets_and_case_studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beachs. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) |
 
 
-# Getting Started
-
-## Prerequisites
-
-- Basics of Python or other  programming languages (R, SQL, etc.)
-- Knowledge of Data Analysis
-- Basics of Jupyter Notebooks
-
-This proejct recommends beginner-level proficiency with Python and is focused on applying Python to data analysis.
-
-### Data Science Tools: Anaconda
-
-Download and install [Anaconda](https://www.anaconda.com/products/individual) python distribution.
-
-#### Included Python Libraries
-
-- pandas
-- matplotlib
-- seaborn
-
-#### Additional Libraries
-
-I am using a Mac, but if you're using Windows, you may need to install these packages:
-
-- geopandas
-
-`conda install -c conda-forge geopandas`
-
-- geoplot
-
-`conda install -c conda-forge geoplot`
-
-- fiona
-
-`conda install -c conda-forge fiona`
-
-- pywin32
-
-`conda install -c anaconda pywin32`
-
-- jupyter_contrib_nbextensions
-
-`conda install -c conda-forge jupyter_contrib_nbextensions`
-
-`jupyter contrib nbextension install --user`
-
-- watermark
-
-`conda install -c conda-forge watermark`
-
-
-## Data 
+# Data 
 
 | Dataset | Description |
 | :-------- | :---------- |
@@ -105,6 +62,14 @@ I am using a Mac, but if you're using Windows, you may need to install these pac
 | [Boroughs]() | GIS data of NYC boroughs. |
 
 Data dictionaries for the data sets above can be found in the [data-dictionaries](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-dictionaries) folder. 
+
+# Open Source Applications Used in Project
+
+- [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
+- [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
+- [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.  
+- [nbviewer](https://nbviewer.jupyter.org/): A web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others.  
+- [Binder](https://mybinder.org/): The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments.
 
 # Resources
 
@@ -131,5 +96,5 @@ Inspiration for the project came from an article by [Localize.city](https://www.
 I can be reached at:  
 
 [Twitter](https://twitter.com/markbauerwater)  
-[LinkedIn](https://www.linkedin.com/in/markebauer/)
+[LinkedIn](https://www.linkedin.com/in/markebauer/)  
 [GitHub](https://github.com/mebauer)
