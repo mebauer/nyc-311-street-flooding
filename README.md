@@ -84,7 +84,11 @@ Data dictionaries for the datasets above can be found in the [data-raw](https://
 
 - [NYC DOT Facebook post](https://www.facebook.com/NYCDOT/posts/if-you-see-ponding-or-flooding-on-any-nyc-street-or-highway-report-it-to-nyc-311/10156270397437887/) about NYC 311 Street Flooding.
 
+![nyc_dot_post](figures/nyc_dot_post.png) 
+
 - [NYC 311 Twitter post](https://twitter.com/nyc311/status/1067131135749165056) about NYC 311 Street Flooding.
+
+![nyc311_post](figures/nyc311_post.png) 
 
 # Further Reading
 
