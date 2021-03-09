@@ -72,13 +72,13 @@ Data dictionaries for the datasets above can be found in the [data-raw](https://
 
 # Resources
 
-- [NYC Open Data](https://opendata.cityofnewyork.us/)
+- [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
 
-- [About NYC 311](https://portal.311.nyc.gov/about-nyc-311/)
+- [About NYC 311](https://portal.311.nyc.gov/about-nyc-311/): NYC311’s mission is to provide the public with quick, easy access to all New York City government services and information while offering the best customer service. We help Agencies improve service delivery by allowing them to focus on their core missions and manage their workload efficiently. We also provide insight to improve City government through accurate, consistent measurement and analysis of service delivery.  
 
-- [311 Service Requests from 2010 to Present Webpage](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+- [311 Service Requests from 2010 to Present Webpage](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9): 311 dataset on NYC Open Data.  
 
-- [Report Street Flooding to NYC 311](https://portal.311.nyc.gov/article/?kanumber=KA-02198)
+- [Report Street Flooding to NYC 311](https://portal.311.nyc.gov/article/?kanumber=KA-02198): The 311 portal to report flooding or ponding on a street.
 
 # Media
 
