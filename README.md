@@ -5,7 +5,6 @@ Mark Bauer
 
 # Table of Contents
 
-   * [Executive Summary](#Executive-Summary)
    * [Introduction](#Introduction)
    * [Prerequisites](#Prerequisites)
    * [Notebooks](#Notebooks)
@@ -15,10 +14,6 @@ Mark Bauer
    * [Media](#Media)
    * [Further Reading](#Further-Reading)
    * [Say Hello!](#Say-Hello)
-
-# Executive Summary
-
-In progress...
 
 # Introduction
 
