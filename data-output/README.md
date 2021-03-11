@@ -1,5 +1,7 @@
 # Output Data
 
+You can find output files in this folder and sample screenshots of the data below.
+
 # Table of Contents
 
    * [Mapping Analysis](#Mapping-Analysis)
