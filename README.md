@@ -9,6 +9,7 @@ Mark Bauer
    * [Prerequisites](#Prerequisites)
    * [Analysis Notebooks](#Analysis-Notebooks)
    * [Data](#Data) 
+   * [Output Data](#Output-Data) 
    * [Data Wrangling Notebooks](#Data-Wrangling-Notebooks)
    * [Open Source Applications Used in Project](#Open-Source-Applications-Used-in-Project)
    * [Resources](#Resources)
@@ -57,6 +58,10 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [Boroughs]() | GIS data of NYC boroughs. |
 
 Data dictionaries for the datasets above can be found in the [data-raw](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-raw) folder. 
+
+# Output Data 
+
+Output data saved as .csv files for most of the plots can be found in the [data-output](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-output) folder.
  
 
 # Data Wrangling Notebooks
