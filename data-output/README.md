@@ -17,3 +17,20 @@
 ### complaints_timedelta_by_nta.csv
 ![cover photo](../images/complaints_timedelta_by_nta.png) 
 
+## Timeseries Analysis
+
+### flooding_311.csv
+![cover photo](../images/flooding_311_timeseries.png) 
+
+### complaints_with_timeseries_info.csv
+![cover photo](../images/complaints_w_timeseries_info.png)  
+
+### stacked_bar.csv
+![cover photo](../images/stacked_bar.png) 
+
+### flooding_311_daily_resample_D.csv
+### flooding_311_daily_resample_W.csv
+### flooding_311_daily_resample_MS.csv
+### flooding_311_daily_resample_YS.csv
+![cover photo](../images/resample_by_frequencies.png) 
+
