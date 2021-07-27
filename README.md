@@ -1,6 +1,6 @@
 # Analyzing NYC's 311 Street Flooding Complaints from 2010 to Present  
 Mark Bauer  
-<button name="button" title="Click to view presentation on YouTube." onclick="https://www.youtube.com/watch?v=ejgrO5-RatE">Presented @ NYC Open Data Week 2021</button>
+[![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
 
 # About The Project
 I conducted an analysis of Street Flooding Complaints with NYC Open Data's 311 dataset. 
