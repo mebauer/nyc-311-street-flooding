@@ -44,9 +44,9 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
-| [analysis_mapping.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_mapping.ipynb) | Analyzing street flooding complaints by location. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_mapping.ipynb) |
-| [analysis_timeseries.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_timeseries.ipynb) | Analyzing street flooding complaints through time. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_timeseries.ipynb) |
-| [analysis_streets_and_case_studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beachs. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis_streets_and_case_studies.ipynb) |
+| [analysis-mapping.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) | Analyzing street flooding complaints by location. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) |
+| [analysis-timeseries.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis_timeseries.ipynb) | Analyzing street flooding complaints through time. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-timeseries.ipynb) |
+| [analysis-streets-case-studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beachs. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) |
 
 
 # Data 
@@ -71,9 +71,9 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
-| [data_wrangling_311_data.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_wrangling_311_data.ipynb) | Querying 311 street flooding complaints records from NYC Open Data using the Python library sodapy. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_wrangling_311_data.ipynb) |
-| [data_wrangling_streets_data.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_wrangling_streets_data.ipynb) | Cleaning the streets dataset. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_wrangling_streets_data.ipynb) |
-| [data_inspection.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_inspection.ipynb) | Inspecting data before analysis. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data_inspection.ipynb) |
+| [wrangling-street-flooding-query.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/wrangling-street-flooding-query.ipynb) | Querying 311 street flooding complaints records from NYC Open Data using the Python library sodapy. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/wrangling-street-flooding-query.ipynb) |
+| [wrangling-streets-geom.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/wrangling-streets-geom.ipynb) | Cleaning the streets dataset. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) |
+| [wrangling-inspection.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/wrangling-inspection.ipynb) | Inspecting data before analysis. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/wrangling-inspection.ipynb) |
 
 # Open Source Applications Used in Project
 
