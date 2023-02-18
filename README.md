@@ -58,7 +58,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [Neighborhood Tabulation Areas](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq) | GIS data: Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks. These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs). |
 | [Boroughs]() | GIS data of NYC boroughs. |
 
-Data dictionaries for the datasets above can be found in the [data-raw](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-raw) folder. 
+Data dictionaries for the datasets above can be found in the [data](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data) folder. 
 
 # Output Data 
 
