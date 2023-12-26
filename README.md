@@ -45,7 +45,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [analysis-mapping.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) | Analyzing street flooding complaints by location. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) |
 | [analysis-timeseries.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-timeseries.ipynb) | Analyzing street flooding complaints through time. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-timeseries.ipynb) |
 | [analysis-streets.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets.ipynb) | Analyzing street flooding complaints by street. | [View](https://nbviewer.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets.ipynb) |
-| [analysis-streets-case-studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beach. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) |
+| [analysis-streets-case-studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) | Analyzing street flooding complaints by street and case studies from Midland Beach, Staten Island and Arverne, Queens. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) |
 
 
 # Data 
@@ -104,10 +104,10 @@ You can run an interactive example on MyBinder through your browser - no install
 
 Inspiration for the project came from an article by [Localize.city](https://www.localize.city/) titled, "[Puddles or Small Ponds? Where New Yorkers Feel Most Deluged by Street Flooding](https://www.localize.city/blog/puddles-or-small-ponds-where-new-yorkers-feel-most-deluged-by-street-flooding/)."
 
-# Say Hello!   
+### Say Hello!
+Contact information:  
+Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
+LinkedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+GitHub: [mebauer](https://github.com/mebauer)
 
-I can be reached at:  
-
-[Twitter](https://twitter.com/markbauerwater)  
-[LinkedIn](https://www.linkedin.com/in/markebauer/)  
-[GitHub](https://github.com/mebauer)
+Keywords: *Street Flooding Complaints, Street Flooding, Flooding, Flood, NYC 311, 311, NYC Open Data*
