@@ -28,8 +28,6 @@ In this project, I explored NYC's 311 street flooding complaints data. Specifica
 3. The average and median response hours to 311 street flooding complaints  
 3. Case studies from Midland Beach, Staten Island and Arverne, Queens
 
-You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-311-street-flooding/HEAD?filepath=mybinder-example%2Fmybinder_example.ipynb). Loading MyBinder is a bit slow, but it will load eventually.
-
 # Prerequisites
 
 - Basics of Python or other  programming languages (R, SQL, etc.)
@@ -69,7 +67,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 | File Name | Description | Static Webpage |
 | :-------- | :---------- | :------------- |
 | [wrangling-street-flooding-query.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-street-flooding-query.ipynb) | Querying 311 street flooding complaints records from NYC Open Data using the Python library sodapy. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-street-flooding-query.ipynb) |
-| [wrangling-streets-geom.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) | Cleaning the streets dataset. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/data-wrangling/wrangling-streets-geom.ipynb) |
+| [wrangling-streets-geom.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) | Cleaning the streets dataset. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) |
 | [wrangling-data-inspection.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-data-inspection.ipynb) | Inspecting data before analysis. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-data-inspection.ipynb) |
 
 # Open Source Applications Used in Project
@@ -89,6 +87,8 @@ You can view these notebooks through your browser by clicking *View* under the *
 - [311 Service Requests from 2010 to Present Webpage](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9): 311 dataset on NYC Open Data.  
 
 - [Report Street Flooding to NYC 311](https://portal.311.nyc.gov/article/?kanumber=KA-02198): The 311 portal to report flooding or ponding on a street.
+
+You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-311-street-flooding/HEAD?filepath=mybinder-example%2Fmybinder_example.ipynb).
 
 # Media
 
