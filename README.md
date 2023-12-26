@@ -2,7 +2,8 @@
 Mark Bauer  
 [![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
 
-![cover photo](figures/cover-photo.png) 
+![cover photo](figures/cover-photo.png)  
+![counts-by-nta](figures/counts-by-nta.png) 
 
 # Table of Contents
 
