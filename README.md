@@ -60,10 +60,6 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [Boroughs]() | GIS data of NYC boroughs. |
 
 Data dictionaries for the datasets above can be found in the [data](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data) folder. 
-
-# Output Data 
-
-Output data saved as .csv files for most of the plots can be found in the [data-output](https://github.com/mebauer/nyc-311-street-flooding/tree/main/data-output) folder.
  
 
 # Data Wrangling Notebooks
