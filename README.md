@@ -1,6 +1,5 @@
 # Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020  
-Mark Bauer  
-[![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
+Author: Mark Bauer  
 
 ![cover photo](figures/cover-photo.png)   
 ![daily-and-weekly-counts](figures/daily-and-weekly-counts.png)  
@@ -29,8 +28,10 @@ Flooding poses a serious threat to coastal cities all around the world, and New 
 In this project, I explored NYC's 311 street flooding complaints data. Specifically, I attempted to answer the following questions:
 1. The distribution of street flooding complaints throughout the five boroughs  
 2. How street flooding complaints are changing over time  
-3. The average and median response hours to 311 street flooding complaints  
-3. Case studies from Midland Beach, Staten Island and Arverne, Queens
+3. Analyzing street flooding complaints by street  
+3. Case studies from Midland Beach, Staten Island and Arverne, Queens  
+
+[![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
 
 # Prerequisites
 
