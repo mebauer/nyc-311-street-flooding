@@ -46,7 +46,8 @@ You can view these notebooks through your browser by clicking *View* under the *
 | :-------- | :---------- | :------------- |
 | [analysis-mapping.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) | Analyzing street flooding complaints by location. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-mapping.ipynb) |
 | [analysis-timeseries.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-timeseries.ipynb) | Analyzing street flooding complaints through time. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-timeseries.ipynb) |
-| [analysis-streets-case-studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beachs. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) |
+| [analysis-streets.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets.ipynb) | Analyzing street flooding complaints by street. | [View](https://nbviewer.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets.ipynb) |
+| [analysis-streets-case-studies.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) | Analyzing street flooding complaints by street and case studies from Arverne and Midland Beach. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/analysis-streets-case-studies.ipynb) |
 
 
 # Data 
