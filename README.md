@@ -4,7 +4,9 @@ Mark Bauer
 
 ![cover photo](figures/cover-photo.png)   
 ![daily-and-weekly-counts](figures/daily-and-weekly-counts.png)  
-![count-street-segment](figures/count-street-segment.png) 
+![count-street-segment](figures/count-street-segment.png)  
+![midland-beach](figures/midland-beach.png)  
+![arverne](figures/arverne.png)
 
 # Table of Contents
 
