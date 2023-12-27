@@ -15,8 +15,8 @@ Author: Mark Bauer
    * [Data](#Data) 
    * [Output Data](#Output-Data) 
    * [Data Wrangling Notebooks](#Data-Wrangling-Notebooks)
-   * [Open Source Applications Used in Project](#Open-Source-Applications-Used-in-Project)
    * [Resources](#Resources)
+   * [Open Source Applications Used in Project](#Open-Source-Applications-Used-in-Project)
    * [Media](#Media)
    * [Further Reading](#Further-Reading)
    * [Say Hello!](#Say-Hello)
@@ -26,12 +26,10 @@ Author: Mark Bauer
 Flooding poses a serious threat to coastal cities all around the world, and New York City is no exception. Hurricane Sandy in 2012 devastated the area, with many communities still suffering from its effects or unable to fully recover.  What can citizen science data tell us about where flooding occurs and how it is changing over time? Additionally, how can this data potentially play a role in how New York City prepares and ultimately mitigates flooding in the future?  
 
 In this project, I explored NYC's 311 street flooding complaints data. Specifically, I attempted to answer the following questions:
-1. The distribution of street flooding complaints throughout the five boroughs  
-2. How street flooding complaints are changing over time  
-3. Analyzing street flooding complaints by street  
+1. What is the distribution of street flooding complaints throughout the five boroughs  
+2. How are street flooding complaints changing over time  
+3. What street segments have the most street flooding complaints  
 3. Case studies from Midland Beach, Staten Island and Arverne, Queens  
-
-[![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
 
 # Prerequisites
 
@@ -75,14 +73,6 @@ You can view these notebooks through your browser by clicking *View* under the *
 | [wrangling-streets-geom.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) | Cleaning the streets dataset. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-streets-geom.ipynb) |
 | [wrangling-data-inspection.ipynb](https://github.com/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-data-inspection.ipynb) | Inspecting data before analysis. | [View](https://nbviewer.jupyter.org/github/mebauer/nyc-311-street-flooding/blob/main/data-wrangling/wrangling-data-inspection.ipynb) |
 
-# Open Source Applications Used in Project
-
-- [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
-- [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
-- [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.  
-- [nbviewer](https://nbviewer.jupyter.org/): A web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others.  
-- [Binder](https://mybinder.org/): The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments.
-
 # Resources
 
 - [NYC Open Data](https://opendata.cityofnewyork.us/): Open Data is free public data published by New York City agencies and other partners.  
@@ -94,6 +84,17 @@ You can view these notebooks through your browser by clicking *View* under the *
 - [Report Street Flooding to NYC 311](https://portal.311.nyc.gov/article/?kanumber=KA-02198): The 311 portal to report flooding or ponding on a street.
 
 You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-311-street-flooding/HEAD?filepath=mybinder-example%2Fmybinder_example.ipynb).
+
+My presentation for NYC Open Data Week 2021: [![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
+
+# Open Source Applications Used in Project
+
+- [Anaconda](https://www.anaconda.com/): A distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.  
+- [Project Jupyter](https://jupyter.org/index.html): Project Jupyter is a non-profit, open-source project, born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages.  
+- [Jupyter Notebook](https://jupyter.org/try): The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.  
+- [nbviewer](https://nbviewer.jupyter.org/): A web application that lets you enter the URL of a Jupyter Notebook file, renders that notebook as a static HTML web page, and gives you a stable link to that page which you can share with others.  
+- [Binder](https://mybinder.org/): The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments.
+
 
 # Media
 
