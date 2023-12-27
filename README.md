@@ -1,9 +1,9 @@
 # Analyzing NYC's 311 Street Flooding Complaints from 2010 to 2020  
 Author: Mark Bauer  
 
-![daily-and-weekly-boro-counts](figures/daily-and-weekly-boro-counts.png)
 ![cover photo](figures/cover-photo.png)   
-![counts-nta](figures/counts-nta.png)  
+![counts-nta](figures/counts-nta.png) 
+![daily-and-weekly-boro-counts](figures/daily-and-weekly-boro-counts.png)  
 ![count-street-segment](figures/count-street-segment.png)  
 ![midland-beach](figures/midland-beach.png)  
 ![arverne](figures/arverne.png)
