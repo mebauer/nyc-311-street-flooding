@@ -2,7 +2,7 @@
 Author: Mark Bauer  
 
 ![cover photo](figures/cover-photo.png)   
-![daily-and-weekly-counts](figures/daily-and-weekly-counts.png)  
+![daily-and-weekly-boro-counts](figures/daily-and-weekly-boro-counts.png)  
 ![count-street-segment](figures/count-street-segment.png)  
 ![midland-beach](figures/midland-beach.png)  
 ![arverne](figures/arverne.png)
