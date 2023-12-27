@@ -86,7 +86,7 @@ You can view these notebooks through your browser by clicking *View* under the *
 
 You can run an interactive example on MyBinder through your browser - no installation required: click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-311-street-flooding/HEAD?filepath=mybinder-example%2Fmybinder_example.ipynb).
 
-My presentation for NYC Open Data Week 2021: click here [![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
+My online presentation for NYC Open Data Week 2021: click here [![YouTube Video Views](https://img.shields.io/youtube/views/ejgrO5-RatE?label=Watch%20Presentation&style=social)](https://www.youtube.com/watch?v=ejgrO5-RatE)
 
 # Open Source Applications Used in Project
 
